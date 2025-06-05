@@ -349,6 +349,10 @@ flappy-bird-gymnasium # Flappy Bird game environment
 
 ## Video demo
 
+https://github.com/user-attachments/assets/635ea4e0-e234-4538-a9a5-70c0427c03c1
+
+
+
 
 This project successfully demonstrates the power of Deep Q-Network reinforcement learning in mastering complex sequential decision-making tasks. The implementation showcases modern RL techniques including experience replay, target networks, and sophisticated reward engineering.
 
